@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e97ddbab-eebd-49a1-a65e-989871ca61e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/BasePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BasePlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/FullPlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/FullPlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/PlayerData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/PlayerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/PlayerId.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/PlayerId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/PlayerUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/PlayerUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/UpdatedUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/UpdatedUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/specs/Specifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/specs/Specifications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/CreatePlayerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/CreatePlayerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/DeletePlayerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/DeletePlayerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GetAllPlayersTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/GetAllPlayersTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/GetPlayerByPlayerIdTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/GetPlayerByPlayerIdTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/UpdatePlayerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/UpdatePlayerTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/BasePlayer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/FullPlayerData.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/PlayerData.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/PlayerId.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/PlayerUpdateRequest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/models/UpdatedUser.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/CreatePlayerTests.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/tests/GetPlayerByPlayerIdTests.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ZM35JULR0gjCGkAIl8pDXmh1pk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.CreatePlayerTests.createPlayerTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreatePlayerTests.createPlayerWithWrongDataTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreatePlayerTests.createPlayerWithWrongDataTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CreatePlayerTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeletePlayerTests.deletePlayerByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeletePlayerTests.deletePlayerWithSupervisorRoleTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DeletePlayerTests.getPlayerByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetAllPlayersTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetAllPlayersTests.getAllUsersTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetAllPlayersTests.postAllUsersTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody (5).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerId.testInputBody.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByIdTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest (5).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JustTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JustTest.testSomething.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JustTest.testSomething1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PlayerApiTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PlayerApiTest.testGetAllPlayers.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersShortTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersTest (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersTest (2).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getAllUsersTest.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByIdTest (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByIdTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByIdTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByIdTest (4).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByWrongIdTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByWrongIdTest (2).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByWrongIdTest (3).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ReqresTest.getPlayerByWrongIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UpdatePlayerTests.updatePlayerTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UpdatePlayerTests.updatePlayerTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UpdatePlayerTests.updatePlayerWithWrongDataTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserControllerTest.getAllUsersWithInvalidPath.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/MyTestTask/TestTask1/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest">
+    <configuration name="CreatePlayerTests.createPlayerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CreatePlayerTests" />
+      <option name="METHOD_NAME" value="createPlayerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllPlayersTests.getAllUsersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.GetAllPlayersTests" />
+      <option name="METHOD_NAME" value="getAllUsersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPlayerByPlayerIdTests.getPlayerByIdTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.GetPlayerByPlayerIdTests" />
+      <option name="METHOD_NAME" value="getPlayerByIdTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPlayerByPlayerIdTests.getPlayerByWrongIdTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.GetPlayerByPlayerIdTests" />
+      <option name="METHOD_NAME" value="getPlayerByWrongIdTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdatePlayerTests.updatePlayerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestTask1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.UpdatePlayerTests" />
+      <option name="METHOD_NAME" value="updatePlayerTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GetPlayerByPlayerIdTests.getPlayerByWrongIdTest" />
+        <item itemvalue="TestNG.GetPlayerByPlayerIdTests.getPlayerByIdTest" />
+        <item itemvalue="TestNG.GetAllPlayersTests.getAllUsersTest" />
+        <item itemvalue="TestNG.UpdatePlayerTests.updatePlayerTest" />
+        <item itemvalue="TestNG.CreatePlayerTests.createPlayerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-13.0.14-azul-13.0.14-8336523bb0d9-2d9db088" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97ddbab-eebd-49a1-a65e-989871ca61e5" name="Changes" comment="" />
+      <created>1702217948166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702217948166</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
